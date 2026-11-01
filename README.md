@@ -10,4 +10,6 @@ Pré-requis :
 Outils nécessaires :
 
 •	VirtualBox / Vmware
-A la fin du module, un QCM de révision généraliste et un cas pratique complet portant sur un scénario réel : Déployer un serveur de sauvegarde automatisé, sécurisé et planifié.
+
+A la fin du module, un QCM de révision généraliste et un cas pratique complet portant sur un scénario réel : 
+Déployer un serveur de sauvegarde automatisé, sécurisé et planifié.
