@@ -1,0 +1,7 @@
+Consigne
+
+Se rendre sur le dépôt 
+Copier le projet avec Fork 
+
+Ajouter le compte rendu de TP sur la copie du projet
+Une fois terminé, veuillez soumettre le compte rendu en cliquant sur New Pull Request
